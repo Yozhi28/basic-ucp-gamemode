@@ -1,0 +1,1734 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:25:02] password = ""  (string)
+[01:25:02] filterscripts = ""  (string)
+[01:25:02] 
+[01:25:02] Server Plugins
+[01:25:02] --------------
+[01:25:02]  Loading plugin: sscanf
+[01:25:02] 
+
+[01:25:02]  ===============================
+
+[01:25:02]       sscanf plugin loaded.     
+
+[01:25:02]          Version:  2.8.3        
+
+[01:25:02]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:25:02]  ===============================
+
+[01:25:02]   Loaded.
+[01:25:02]  Loading plugin: streamer
+[01:25:02] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:25:02]   Loaded.
+[01:25:02]  Loading plugin: samp_bcrypt
+[01:25:02] [SampBcrypt] [info]: Version: 0.3.2
+[01:25:02]   Loaded.
+[01:25:02]  Loading plugin: mysql
+[01:25:02]  >> plugin.mysql: R41-4 successfully loaded.
+[01:25:02]   Loaded.
+[01:25:02]  Loaded 4 plugins.
+
+[01:25:02] 
+[01:25:02] Filterscripts
+[01:25:02] ---------------
+[01:25:02]   Loaded 0 filterscripts.
+
+[01:25:02]  
+[01:25:02]  ========================================== 
+[01:25:02]  |                                        | 
+[01:25:02]  |    Generating code, this may take a    | 
+[01:25:02]  |           little bit of time.          | 
+[01:25:02]  |                                        | 
+[01:25:02]  |             Please wait...             | 
+[01:25:02]  |                                        | 
+[01:25:02]  ========================================== 
+[01:25:02]  |                                        | 
+[01:25:02]  | Note that this code generation works   | 
+[01:25:02]  | best with the JIT plugin, which you    | 
+[01:25:02]  | are not currently using.  Get it here: | 
+[01:25:02]  |                                        | 
+[01:25:02]  |        https://git.io/jit-plugin       | 
+[01:25:02]  |                                        | 
+[01:25:02]  ========================================== 
+[01:25:02]  
+[01:25:02]  
+[01:25:02]  
+[01:25:02]  
+[01:25:02]  ========================================== 
+[01:25:02]  |                                        | 
+[01:25:02]  |         YSI version 5.05.0301          | 
+[01:25:02]  |         By Alex "Y_Less" Cole          | 
+[01:25:02]  |                                        | 
+[01:25:02]  | Unable to check the latest YSI version | 
+[01:25:02]  | - please watch the forums and github:  | 
+[01:25:02]  |                                        | 
+[01:25:02]  |   https://git.io/5.x                   | 
+[01:25:02]  |                                        | 
+[01:25:02]  ========================================== 
+[01:25:02]  
+[01:25:02] [MySQL] - Connection Estabilished!
+[01:25:02] UCP Roleplay Gamemode loaded!
+[01:25:02] Number of vehicle models: 0
+[01:27:00] [connection] incoming connection: 127.0.0.1:52591 id: 0
+[01:27:00] [join] vyn has joined the server (0:127.0.0.1)
+[01:27:02] [part] vyn has left the server (0:2)
+[01:27:41] --- Server Shutting Down.
+[01:27:41] 
+
+[01:27:41]  ===============================
+
+[01:27:41]      sscanf plugin unloaded.    
+
+[01:27:41]  ===============================
+
+[01:27:41] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[01:27:41] plugin.mysql: Unloading plugin...
+[01:27:41] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:27:45] password = ""  (string)
+[01:27:45] filterscripts = ""  (string)
+[01:27:45] 
+[01:27:45] Server Plugins
+[01:27:45] --------------
+[01:27:45]  Loading plugin: sscanf
+[01:27:45] 
+
+[01:27:45]  ===============================
+
+[01:27:45]       sscanf plugin loaded.     
+
+[01:27:45]          Version:  2.8.3        
+
+[01:27:45]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:27:45]  ===============================
+
+[01:27:45]   Loaded.
+[01:27:45]  Loading plugin: streamer
+[01:27:45] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:27:45]   Loaded.
+[01:27:45]  Loading plugin: samp_bcrypt
+[01:27:45] [SampBcrypt] [info]: Version: 0.3.2
+[01:27:45]   Loaded.
+[01:27:45]  Loading plugin: mysql
+[01:27:45]  >> plugin.mysql: R41-4 successfully loaded.
+[01:27:45]   Loaded.
+[01:27:45]  Loaded 4 plugins.
+
+[01:27:45] 
+[01:27:45] Filterscripts
+[01:27:45] ---------------
+[01:27:45]   Loaded 0 filterscripts.
+
+[01:27:45]  
+[01:27:45]  ========================================== 
+[01:27:45]  |                                        | 
+[01:27:45]  |    Generating code, this may take a    | 
+[01:27:45]  |           little bit of time.          | 
+[01:27:45]  |                                        | 
+[01:27:45]  |             Please wait...             | 
+[01:27:45]  |                                        | 
+[01:27:45]  ========================================== 
+[01:27:45]  |                                        | 
+[01:27:45]  | Note that this code generation works   | 
+[01:27:45]  | best with the JIT plugin, which you    | 
+[01:27:45]  | are not currently using.  Get it here: | 
+[01:27:45]  |                                        | 
+[01:27:45]  |        https://git.io/jit-plugin       | 
+[01:27:45]  |                                        | 
+[01:27:45]  ========================================== 
+[01:27:45]  
+[01:27:45]  
+[01:27:45]  
+[01:27:45]  
+[01:27:45]  ========================================== 
+[01:27:45]  |                                        | 
+[01:27:45]  |         YSI version 5.05.0301          | 
+[01:27:45]  |         By Alex "Y_Less" Cole          | 
+[01:27:45]  |                                        | 
+[01:27:45]  | Unable to check the latest YSI version | 
+[01:27:45]  | - please watch the forums and github:  | 
+[01:27:45]  |                                        | 
+[01:27:45]  |   https://git.io/5.x                   | 
+[01:27:45]  |                                        | 
+[01:27:45]  ========================================== 
+[01:27:45]  
+[01:27:45] [MySQL] - Connection Estabilished!
+[01:27:45] UCP Roleplay Gamemode loaded!
+[01:27:45] Number of vehicle models: 0
+[01:29:15] [connection] incoming connection: 127.0.0.1:59807 id: 0
+[01:29:15] [join] vyn has joined the server (0:127.0.0.1)
+[01:29:29] [SampBcrypt] [error]: OnPlayerPasswordChecked => InvalidHash("$2y$12$ntUj2PL6u2XYEBgiGB33..ov4VmXr2rZq")
+[01:29:35] [part] vyn has left the server (0:1)
+[01:33:33] [connection] incoming connection: 127.0.0.1:63073 id: 0
+[01:33:33] [join] vyn has joined the server (0:127.0.0.1)
+[01:33:39] [SampBcrypt] [error]: OnPlayerPasswordChecked => InvalidHash("$2y$12$ntUj2PL6u2XYEBgiGB33..ov4VmXr2rZq")
+[01:33:41] [chat] [vyn]: a
+[01:33:42] [chat] [vyn]: a
+[01:33:42] [chat] [vyn]: a
+[01:33:43] [part] vyn has left the server (0:1)
+[01:34:30] --- Server Shutting Down.
+[01:34:30] 
+
+[01:34:30]  ===============================
+
+[01:34:30]      sscanf plugin unloaded.    
+
+[01:34:30]  ===============================
+
+[01:34:30] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[01:34:30] plugin.mysql: Unloading plugin...
+[01:34:30] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:34:36] password = ""  (string)
+[01:34:36] filterscripts = ""  (string)
+[01:34:36] 
+[01:34:36] Server Plugins
+[01:34:36] --------------
+[01:34:36]  Loading plugin: sscanf
+[01:34:36] 
+
+[01:34:36]  ===============================
+
+[01:34:36]       sscanf plugin loaded.     
+
+[01:34:36]          Version:  2.8.3        
+
+[01:34:36]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:34:36]  ===============================
+
+[01:34:36]   Loaded.
+[01:34:36]  Loading plugin: streamer
+[01:34:36] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:34:36]   Loaded.
+[01:34:36]  Loading plugin: samp_bcrypt
+[01:34:36] [SampBcrypt] [info]: Version: 0.3.2
+[01:34:36]   Loaded.
+[01:34:36]  Loading plugin: mysql
+[01:34:36]  >> plugin.mysql: R41-4 successfully loaded.
+[01:34:36]   Loaded.
+[01:34:36]  Loaded 4 plugins.
+
+[01:34:36] 
+[01:34:36] Filterscripts
+[01:34:36] ---------------
+[01:34:36]   Loaded 0 filterscripts.
+
+[01:34:36]  
+[01:34:36]  ========================================== 
+[01:34:36]  |                                        | 
+[01:34:36]  |    Generating code, this may take a    | 
+[01:34:36]  |           little bit of time.          | 
+[01:34:36]  |                                        | 
+[01:34:36]  |             Please wait...             | 
+[01:34:36]  |                                        | 
+[01:34:36]  ========================================== 
+[01:34:36]  |                                        | 
+[01:34:36]  | Note that this code generation works   | 
+[01:34:36]  | best with the JIT plugin, which you    | 
+[01:34:36]  | are not currently using.  Get it here: | 
+[01:34:36]  |                                        | 
+[01:34:36]  |        https://git.io/jit-plugin       | 
+[01:34:36]  |                                        | 
+[01:34:36]  ========================================== 
+[01:34:36]  
+[01:34:36]  
+[01:34:36]  
+[01:34:36]  
+[01:34:36]  ========================================== 
+[01:34:36]  |                                        | 
+[01:34:36]  |         YSI version 5.05.0301          | 
+[01:34:36]  |         By Alex "Y_Less" Cole          | 
+[01:34:36]  |                                        | 
+[01:34:36]  | Unable to check the latest YSI version | 
+[01:34:36]  | - please watch the forums and github:  | 
+[01:34:36]  |                                        | 
+[01:34:36]  |   https://git.io/5.x                   | 
+[01:34:36]  |                                        | 
+[01:34:36]  ========================================== 
+[01:34:36]  
+[01:34:36] [MySQL] - Connection Estabilished!
+[01:34:36] UCP Roleplay Gamemode loaded!
+[01:34:36] Number of vehicle models: 0
+[01:35:38] [connection] incoming connection: 127.0.0.1:52925 id: 0
+[01:35:38] [join] vyn has joined the server (0:127.0.0.1)
+[01:35:41] [SampBcrypt] [error]: OnPlayerPasswordChecked => InvalidHash("$2y$12$ntUj2PL6u2XYEBgiGB33..ov4VmXr2rZq")
+[01:36:29] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:36:31] password = ""  (string)
+[01:36:31] filterscripts = ""  (string)
+[01:36:31] 
+[01:36:31] Server Plugins
+[01:36:31] --------------
+[01:36:31]  Loading plugin: sscanf
+[01:36:31] 
+
+[01:36:31]  ===============================
+
+[01:36:31]       sscanf plugin loaded.     
+
+[01:36:31]          Version:  2.8.3        
+
+[01:36:31]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:36:31]  ===============================
+
+[01:36:31]   Loaded.
+[01:36:31]  Loading plugin: streamer
+[01:36:31] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:36:31]   Loaded.
+[01:36:31]  Loading plugin: samp_bcrypt
+[01:36:31] [SampBcrypt] [info]: Version: 0.3.2
+[01:36:31]   Loaded.
+[01:36:31]  Loading plugin: mysql
+[01:36:31]  >> plugin.mysql: R41-4 successfully loaded.
+[01:36:31]   Loaded.
+[01:36:31]  Loaded 4 plugins.
+
+[01:36:31] 
+[01:36:31] Filterscripts
+[01:36:31] ---------------
+[01:36:31]   Loaded 0 filterscripts.
+
+[01:36:31]  
+[01:36:31]  ========================================== 
+[01:36:31]  |                                        | 
+[01:36:31]  |    Generating code, this may take a    | 
+[01:36:31]  |           little bit of time.          | 
+[01:36:31]  |                                        | 
+[01:36:31]  |             Please wait...             | 
+[01:36:31]  |                                        | 
+[01:36:31]  ========================================== 
+[01:36:31]  |                                        | 
+[01:36:31]  | Note that this code generation works   | 
+[01:36:31]  | best with the JIT plugin, which you    | 
+[01:36:31]  | are not currently using.  Get it here: | 
+[01:36:31]  |                                        | 
+[01:36:31]  |        https://git.io/jit-plugin       | 
+[01:36:31]  |                                        | 
+[01:36:31]  ========================================== 
+[01:36:31]  
+[01:36:31]  
+[01:36:31]  
+[01:36:31]  
+[01:36:31]  ========================================== 
+[01:36:31]  |                                        | 
+[01:36:31]  |         YSI version 5.05.0301          | 
+[01:36:31]  |         By Alex "Y_Less" Cole          | 
+[01:36:31]  |                                        | 
+[01:36:31]  | Unable to check the latest YSI version | 
+[01:36:31]  | - please watch the forums and github:  | 
+[01:36:31]  |                                        | 
+[01:36:31]  |   https://git.io/5.x                   | 
+[01:36:31]  |                                        | 
+[01:36:31]  ========================================== 
+[01:36:31]  
+[01:36:31] [MySQL] - Connection Estabilished!
+[01:36:31] UCP Roleplay Gamemode loaded!
+[01:36:31] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:36:48] password = ""  (string)
+[01:36:48] filterscripts = ""  (string)
+[01:36:48] 
+[01:36:48] Server Plugins
+[01:36:48] --------------
+[01:36:48]  Loading plugin: sscanf
+[01:36:48] 
+
+[01:36:48]  ===============================
+
+[01:36:48]       sscanf plugin loaded.     
+
+[01:36:48]          Version:  2.8.3        
+
+[01:36:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:36:48]  ===============================
+
+[01:36:48]   Loaded.
+[01:36:48]  Loading plugin: streamer
+[01:36:48] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:36:48]   Loaded.
+[01:36:48]  Loading plugin: samp_bcrypt
+[01:36:48] [SampBcrypt] [info]: Version: 0.3.2
+[01:36:48]   Loaded.
+[01:36:48]  Loading plugin: mysql
+[01:36:48]  >> plugin.mysql: R41-4 successfully loaded.
+[01:36:48]   Loaded.
+[01:36:48]  Loaded 4 plugins.
+
+[01:36:48] 
+[01:36:48] Filterscripts
+[01:36:48] ---------------
+[01:36:48]   Loaded 0 filterscripts.
+
+[01:36:48]  
+[01:36:48]  ========================================== 
+[01:36:48]  |                                        | 
+[01:36:48]  |    Generating code, this may take a    | 
+[01:36:48]  |           little bit of time.          | 
+[01:36:48]  |                                        | 
+[01:36:48]  |             Please wait...             | 
+[01:36:48]  |                                        | 
+[01:36:48]  ========================================== 
+[01:36:48]  |                                        | 
+[01:36:48]  | Note that this code generation works   | 
+[01:36:48]  | best with the JIT plugin, which you    | 
+[01:36:48]  | are not currently using.  Get it here: | 
+[01:36:48]  |                                        | 
+[01:36:48]  |        https://git.io/jit-plugin       | 
+[01:36:48]  |                                        | 
+[01:36:48]  ========================================== 
+[01:36:48]  
+[01:36:48]  
+[01:36:48]  
+[01:36:48]  
+[01:36:48]  ========================================== 
+[01:36:48]  |                                        | 
+[01:36:48]  |         YSI version 5.05.0301          | 
+[01:36:48]  |         By Alex "Y_Less" Cole          | 
+[01:36:48]  |                                        | 
+[01:36:48]  | Unable to check the latest YSI version | 
+[01:36:48]  | - please watch the forums and github:  | 
+[01:36:48]  |                                        | 
+[01:36:48]  |   https://git.io/5.x                   | 
+[01:36:48]  |                                        | 
+[01:36:48]  ========================================== 
+[01:36:48]  
+[01:36:48] [MySQL] - Connection Estabilished!
+[01:36:48] UCP Roleplay Gamemode loaded!
+[01:36:48] Number of vehicle models: 0
+[01:37:01] [connection] incoming connection: 127.0.0.1:49515 id: 0
+[01:37:02] [join] vyn has joined the server (0:127.0.0.1)
+[01:37:10] [SampBcrypt] [error]: OnPlayerPasswordChecked => InvalidHash("$2y$12$ntUj2PL6u2XYEBgiGB33..ov4VmXr2rZq")
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:38:26] password = ""  (string)
+[01:38:26] filterscripts = ""  (string)
+[01:38:26] 
+[01:38:26] Server Plugins
+[01:38:26] --------------
+[01:38:26]  Loading plugin: sscanf
+[01:38:26] 
+
+[01:38:26]  ===============================
+
+[01:38:26]       sscanf plugin loaded.     
+
+[01:38:26]          Version:  2.8.3        
+
+[01:38:26]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:38:26]  ===============================
+
+[01:38:26]   Loaded.
+[01:38:26]  Loading plugin: streamer
+[01:38:26] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:38:26]   Loaded.
+[01:38:26]  Loading plugin: samp_bcrypt
+[01:38:26] [SampBcrypt] [info]: Version: 0.3.2
+[01:38:26]   Loaded.
+[01:38:26]  Loading plugin: mysql
+[01:38:26]  >> plugin.mysql: R41-4 successfully loaded.
+[01:38:26]   Loaded.
+[01:38:26]  Loaded 4 plugins.
+
+[01:38:26] 
+[01:38:26] Filterscripts
+[01:38:26] ---------------
+[01:38:26]   Loaded 0 filterscripts.
+
+[01:38:26]  
+[01:38:26]  ========================================== 
+[01:38:26]  |                                        | 
+[01:38:26]  |    Generating code, this may take a    | 
+[01:38:26]  |           little bit of time.          | 
+[01:38:26]  |                                        | 
+[01:38:26]  |             Please wait...             | 
+[01:38:26]  |                                        | 
+[01:38:26]  ========================================== 
+[01:38:26]  |                                        | 
+[01:38:26]  | Note that this code generation works   | 
+[01:38:26]  | best with the JIT plugin, which you    | 
+[01:38:26]  | are not currently using.  Get it here: | 
+[01:38:26]  |                                        | 
+[01:38:26]  |        https://git.io/jit-plugin       | 
+[01:38:26]  |                                        | 
+[01:38:26]  ========================================== 
+[01:38:26]  
+[01:38:26]  
+[01:38:26]  
+[01:38:26]  
+[01:38:26]  ========================================== 
+[01:38:26]  |                                        | 
+[01:38:26]  |         YSI version 5.05.0301          | 
+[01:38:26]  |         By Alex "Y_Less" Cole          | 
+[01:38:26]  |                                        | 
+[01:38:26]  | Unable to check the latest YSI version | 
+[01:38:26]  | - please watch the forums and github:  | 
+[01:38:26]  |                                        | 
+[01:38:26]  |   https://git.io/5.x                   | 
+[01:38:26]  |                                        | 
+[01:38:26]  ========================================== 
+[01:38:26]  
+[01:38:26] [MySQL] - Connection Estabilished!
+[01:38:26] UCP Roleplay Gamemode loaded!
+[01:38:26] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:39:00] password = ""  (string)
+[01:39:00] filterscripts = ""  (string)
+[01:39:00] 
+[01:39:00] Server Plugins
+[01:39:00] --------------
+[01:39:00]  Loading plugin: sscanf
+[01:39:00] 
+
+[01:39:00]  ===============================
+
+[01:39:00]       sscanf plugin loaded.     
+
+[01:39:00]          Version:  2.8.3        
+
+[01:39:00]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:39:00]  ===============================
+
+[01:39:00]   Loaded.
+[01:39:00]  Loading plugin: streamer
+[01:39:00] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:39:00]   Loaded.
+[01:39:00]  Loading plugin: samp_bcrypt
+[01:39:00] [SampBcrypt] [info]: Version: 0.3.2
+[01:39:00]   Loaded.
+[01:39:00]  Loading plugin: mysql
+[01:39:00]  >> plugin.mysql: R41-4 successfully loaded.
+[01:39:00]   Loaded.
+[01:39:00]  Loaded 4 plugins.
+
+[01:39:00] 
+[01:39:00] Filterscripts
+[01:39:00] ---------------
+[01:39:00]   Loaded 0 filterscripts.
+
+[01:39:00]  
+[01:39:00]  ========================================== 
+[01:39:00]  |                                        | 
+[01:39:00]  |    Generating code, this may take a    | 
+[01:39:00]  |           little bit of time.          | 
+[01:39:00]  |                                        | 
+[01:39:00]  |             Please wait...             | 
+[01:39:00]  |                                        | 
+[01:39:00]  ========================================== 
+[01:39:00]  |                                        | 
+[01:39:00]  | Note that this code generation works   | 
+[01:39:00]  | best with the JIT plugin, which you    | 
+[01:39:00]  | are not currently using.  Get it here: | 
+[01:39:00]  |                                        | 
+[01:39:00]  |        https://git.io/jit-plugin       | 
+[01:39:00]  |                                        | 
+[01:39:00]  ========================================== 
+[01:39:00]  
+[01:39:00]  
+[01:39:00]  
+[01:39:00]  
+[01:39:00]  ========================================== 
+[01:39:00]  |                                        | 
+[01:39:00]  |         YSI version 5.05.0301          | 
+[01:39:00]  |         By Alex "Y_Less" Cole          | 
+[01:39:00]  |                                        | 
+[01:39:00]  | Unable to check the latest YSI version | 
+[01:39:00]  | - please watch the forums and github:  | 
+[01:39:00]  |                                        | 
+[01:39:00]  |   https://git.io/5.x                   | 
+[01:39:00]  |                                        | 
+[01:39:00]  ========================================== 
+[01:39:00]  
+[01:39:00] [MySQL] - Connection Estabilished!
+[01:39:00] UCP Roleplay Gamemode loaded!
+[01:39:00] Number of vehicle models: 0
+[01:39:21] [connection] incoming connection: 127.0.0.1:58305 id: 0
+[01:39:21] [join] vyn has joined the server (0:127.0.0.1)
+[01:39:24] [SampBcrypt] [error]: OnPlayerPasswordChecked => InvalidHash("$2y$12$ntUj2PL6u2XYEBgiGB33..ov4VmXr2rZq")
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:39:57] password = ""  (string)
+[01:39:57] filterscripts = ""  (string)
+[01:39:57] 
+[01:39:57] Server Plugins
+[01:39:57] --------------
+[01:39:57]  Loading plugin: sscanf
+[01:39:57] 
+
+[01:39:57]  ===============================
+
+[01:39:57]       sscanf plugin loaded.     
+
+[01:39:57]          Version:  2.8.3        
+
+[01:39:57]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:39:57]  ===============================
+
+[01:39:57]   Loaded.
+[01:39:57]  Loading plugin: streamer
+[01:39:57] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:39:57]   Loaded.
+[01:39:57]  Loading plugin: samp_bcrypt
+[01:39:57] [SampBcrypt] [info]: Version: 0.3.2
+[01:39:57]   Loaded.
+[01:39:57]  Loading plugin: mysql
+[01:39:57]  >> plugin.mysql: R41-4 successfully loaded.
+[01:39:57]   Loaded.
+[01:39:57]  Loaded 4 plugins.
+
+[01:39:57] 
+[01:39:57] Filterscripts
+[01:39:57] ---------------
+[01:39:57]   Loaded 0 filterscripts.
+
+[01:39:57]  
+[01:39:57]  ========================================== 
+[01:39:57]  |                                        | 
+[01:39:57]  |    Generating code, this may take a    | 
+[01:39:57]  |           little bit of time.          | 
+[01:39:57]  |                                        | 
+[01:39:57]  |             Please wait...             | 
+[01:39:57]  |                                        | 
+[01:39:57]  ========================================== 
+[01:39:57]  |                                        | 
+[01:39:57]  | Note that this code generation works   | 
+[01:39:57]  | best with the JIT plugin, which you    | 
+[01:39:57]  | are not currently using.  Get it here: | 
+[01:39:57]  |                                        | 
+[01:39:57]  |        https://git.io/jit-plugin       | 
+[01:39:57]  |                                        | 
+[01:39:57]  ========================================== 
+[01:39:57]  
+[01:39:57]  
+[01:39:57]  
+[01:39:57]  
+[01:39:57]  ========================================== 
+[01:39:57]  |                                        | 
+[01:39:57]  |         YSI version 5.05.0301          | 
+[01:39:57]  |         By Alex "Y_Less" Cole          | 
+[01:39:57]  |                                        | 
+[01:39:57]  | Unable to check the latest YSI version | 
+[01:39:57]  | - please watch the forums and github:  | 
+[01:39:57]  |                                        | 
+[01:39:57]  |   https://git.io/5.x                   | 
+[01:39:57]  |                                        | 
+[01:39:57]  ========================================== 
+[01:39:57]  
+[01:39:57] [MySQL] - Connection Estabilished!
+[01:39:57] UCP Roleplay Gamemode loaded!
+[01:39:57] Number of vehicle models: 0
+[01:40:16] [connection] incoming connection: 127.0.0.1:53841 id: 0
+[01:40:16] [join] vyn has joined the server (0:127.0.0.1)
+[01:40:22] [SampBcrypt] [error]: OnPlayerPasswordChecked => InvalidHash("$2y$12$ntUj2PL6u2XYEBgiGB33..ov4VmXr2rZq")
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:43:24] password = ""  (string)
+[01:43:24] filterscripts = ""  (string)
+[01:43:24] 
+[01:43:24] Server Plugins
+[01:43:24] --------------
+[01:43:24]  Loading plugin: sscanf
+[01:43:24] 
+
+[01:43:24]  ===============================
+
+[01:43:24]       sscanf plugin loaded.     
+
+[01:43:24]          Version:  2.8.3        
+
+[01:43:24]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:43:24]  ===============================
+
+[01:43:24]   Loaded.
+[01:43:24]  Loading plugin: streamer
+[01:43:24] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:43:24]   Loaded.
+[01:43:24]  Loading plugin: samp_bcrypt
+[01:43:24] [SampBcrypt] [info]: Version: 0.3.2
+[01:43:24]   Loaded.
+[01:43:24]  Loading plugin: mysql
+[01:43:24]  >> plugin.mysql: R41-4 successfully loaded.
+[01:43:24]   Loaded.
+[01:43:24]  Loaded 4 plugins.
+
+[01:43:24] 
+[01:43:24] Filterscripts
+[01:43:24] ---------------
+[01:43:24]   Loaded 0 filterscripts.
+
+[01:43:24]  
+[01:43:24]  ========================================== 
+[01:43:24]  |                                        | 
+[01:43:24]  |    Generating code, this may take a    | 
+[01:43:24]  |           little bit of time.          | 
+[01:43:24]  |                                        | 
+[01:43:24]  |             Please wait...             | 
+[01:43:24]  |                                        | 
+[01:43:24]  ========================================== 
+[01:43:24]  |                                        | 
+[01:43:24]  | Note that this code generation works   | 
+[01:43:24]  | best with the JIT plugin, which you    | 
+[01:43:24]  | are not currently using.  Get it here: | 
+[01:43:24]  |                                        | 
+[01:43:24]  |        https://git.io/jit-plugin       | 
+[01:43:24]  |                                        | 
+[01:43:24]  ========================================== 
+[01:43:24]  
+[01:43:24]  
+[01:43:24]  
+[01:43:24]  
+[01:43:24]  ========================================== 
+[01:43:24]  |                                        | 
+[01:43:24]  |         YSI version 5.05.0301          | 
+[01:43:24]  |         By Alex "Y_Less" Cole          | 
+[01:43:24]  |                                        | 
+[01:43:24]  | Unable to check the latest YSI version | 
+[01:43:24]  | - please watch the forums and github:  | 
+[01:43:24]  |                                        | 
+[01:43:24]  |   https://git.io/5.x                   | 
+[01:43:24]  |                                        | 
+[01:43:24]  ========================================== 
+[01:43:24]  
+[01:43:24] [MySQL] - Connection Estabilished!
+[01:43:24] UCP Roleplay Gamemode loaded!
+[01:43:24] Number of vehicle models: 0
+[01:45:22] [connection] incoming connection: 127.0.0.1:54761 id: 0
+[01:45:22] [join] vyn has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:48:13] password = ""  (string)
+[01:48:13] filterscripts = ""  (string)
+[01:48:13] 
+[01:48:13] Server Plugins
+[01:48:13] --------------
+[01:48:13]  Loading plugin: sscanf
+[01:48:13] 
+
+[01:48:13]  ===============================
+
+[01:48:13]       sscanf plugin loaded.     
+
+[01:48:13]          Version:  2.8.3        
+
+[01:48:13]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:48:13]  ===============================
+
+[01:48:13]   Loaded.
+[01:48:13]  Loading plugin: streamer
+[01:48:13] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:48:13]   Loaded.
+[01:48:13]  Loading plugin: samp_bcrypt
+[01:48:13] [SampBcrypt] [info]: Version: 0.3.2
+[01:48:13]   Loaded.
+[01:48:13]  Loading plugin: mysql
+[01:48:13]  >> plugin.mysql: R41-4 successfully loaded.
+[01:48:13]   Loaded.
+[01:48:13]  Loaded 4 plugins.
+
+[01:48:14] 
+[01:48:14] Filterscripts
+[01:48:14] ---------------
+[01:48:14]   Loaded 0 filterscripts.
+
+[01:48:14]  
+[01:48:14]  ========================================== 
+[01:48:14]  |                                        | 
+[01:48:14]  |    Generating code, this may take a    | 
+[01:48:14]  |           little bit of time.          | 
+[01:48:14]  |                                        | 
+[01:48:14]  |             Please wait...             | 
+[01:48:14]  |                                        | 
+[01:48:14]  ========================================== 
+[01:48:14]  |                                        | 
+[01:48:14]  | Note that this code generation works   | 
+[01:48:14]  | best with the JIT plugin, which you    | 
+[01:48:14]  | are not currently using.  Get it here: | 
+[01:48:14]  |                                        | 
+[01:48:14]  |        https://git.io/jit-plugin       | 
+[01:48:14]  |                                        | 
+[01:48:14]  ========================================== 
+[01:48:14]  
+[01:48:14]  
+[01:48:14]  
+[01:48:14]  
+[01:48:14]  ========================================== 
+[01:48:14]  |                                        | 
+[01:48:14]  |         YSI version 5.05.0301          | 
+[01:48:14]  |         By Alex "Y_Less" Cole          | 
+[01:48:14]  |                                        | 
+[01:48:14]  | Unable to check the latest YSI version | 
+[01:48:14]  | - please watch the forums and github:  | 
+[01:48:14]  |                                        | 
+[01:48:14]  |   https://git.io/5.x                   | 
+[01:48:14]  |                                        | 
+[01:48:14]  ========================================== 
+[01:48:14]  
+[01:48:14] [MySQL] - Connection Estabilished!
+[01:48:14] UCP Roleplay Gamemode loaded!
+[01:48:14] Number of vehicle models: 0
+[01:48:16] [connection] incoming connection: 127.0.0.1:58735 id: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:48:35] password = ""  (string)
+[01:48:35] filterscripts = ""  (string)
+[01:48:35] 
+[01:48:35] Server Plugins
+[01:48:35] --------------
+[01:48:35]  Loading plugin: sscanf
+[01:48:35] 
+
+[01:48:35]  ===============================
+
+[01:48:35]       sscanf plugin loaded.     
+
+[01:48:35]          Version:  2.8.3        
+
+[01:48:35]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:48:35]  ===============================
+
+[01:48:35]   Loaded.
+[01:48:35]  Loading plugin: streamer
+[01:48:35] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:48:35]   Loaded.
+[01:48:35]  Loading plugin: samp_bcrypt
+[01:48:35] [SampBcrypt] [info]: Version: 0.3.2
+[01:48:35]   Loaded.
+[01:48:35]  Loading plugin: mysql
+[01:48:35]  >> plugin.mysql: R41-4 successfully loaded.
+[01:48:35]   Loaded.
+[01:48:35]  Loaded 4 plugins.
+
+[01:48:35] 
+[01:48:35] Filterscripts
+[01:48:35] ---------------
+[01:48:35]   Loaded 0 filterscripts.
+
+[01:48:35]  
+[01:48:35]  ========================================== 
+[01:48:35]  |                                        | 
+[01:48:35]  |    Generating code, this may take a    | 
+[01:48:35]  |           little bit of time.          | 
+[01:48:35]  |                                        | 
+[01:48:35]  |             Please wait...             | 
+[01:48:35]  |                                        | 
+[01:48:35]  ========================================== 
+[01:48:35]  |                                        | 
+[01:48:35]  | Note that this code generation works   | 
+[01:48:35]  | best with the JIT plugin, which you    | 
+[01:48:35]  | are not currently using.  Get it here: | 
+[01:48:35]  |                                        | 
+[01:48:35]  |        https://git.io/jit-plugin       | 
+[01:48:35]  |                                        | 
+[01:48:35]  ========================================== 
+[01:48:35]  
+[01:48:35]  
+[01:48:35]  
+[01:48:35]  
+[01:48:35]  ========================================== 
+[01:48:35]  |                                        | 
+[01:48:36]  |         YSI version 5.05.0301          | 
+[01:48:36]  |         By Alex "Y_Less" Cole          | 
+[01:48:36]  |                                        | 
+[01:48:36]  | Unable to check the latest YSI version | 
+[01:48:36]  | - please watch the forums and github:  | 
+[01:48:36]  |                                        | 
+[01:48:36]  |   https://git.io/5.x                   | 
+[01:48:36]  |                                        | 
+[01:48:36]  ========================================== 
+[01:48:36]  
+[01:48:36] [MySQL] - Connection Estabilished!
+[01:48:36] UCP Roleplay Gamemode loaded!
+[01:48:36] Number of vehicle models: 0
+[01:49:22] [connection] incoming connection: 127.0.0.1:60431 id: 0
+[01:49:22] [join] vyn has joined the server (0:127.0.0.1)
+[01:50:30] [nick] vyn nick changed to Finn_Xanderz
+[01:50:44] [part] Finn_Xanderz has left the server (0:1)
+[01:55:43] --- Server Shutting Down.
+[01:55:43] 
+
+[01:55:43]  ===============================
+
+[01:55:43]      sscanf plugin unloaded.    
+
+[01:55:43]  ===============================
+
+[01:55:43] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[01:55:43] plugin.mysql: Unloading plugin...
+[01:55:43] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:55:47] password = ""  (string)
+[01:55:47] filterscripts = ""  (string)
+[01:55:47] 
+[01:55:47] Server Plugins
+[01:55:47] --------------
+[01:55:47]  Loading plugin: sscanf
+[01:55:47] 
+
+[01:55:47]  ===============================
+
+[01:55:47]       sscanf plugin loaded.     
+
+[01:55:47]          Version:  2.8.3        
+
+[01:55:47]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:55:47]  ===============================
+
+[01:55:47]   Loaded.
+[01:55:47]  Loading plugin: streamer
+[01:55:47] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[01:55:47]   Loaded.
+[01:55:47]  Loading plugin: samp_bcrypt
+[01:55:47] [SampBcrypt] [info]: Version: 0.3.2
+[01:55:47]   Loaded.
+[01:55:47]  Loading plugin: mysql
+[01:55:47]  >> plugin.mysql: R41-4 successfully loaded.
+[01:55:47]   Loaded.
+[01:55:47]  Loaded 4 plugins.
+
+[01:55:47] 
+[01:55:47] Filterscripts
+[01:55:47] ---------------
+[01:55:47]   Loaded 0 filterscripts.
+
+[01:55:47]  
+[01:55:47]  ========================================== 
+[01:55:47]  |                                        | 
+[01:55:47]  |    Generating code, this may take a    | 
+[01:55:47]  |           little bit of time.          | 
+[01:55:47]  |                                        | 
+[01:55:47]  |             Please wait...             | 
+[01:55:47]  |                                        | 
+[01:55:47]  ========================================== 
+[01:55:47]  |                                        | 
+[01:55:47]  | Note that this code generation works   | 
+[01:55:47]  | best with the JIT plugin, which you    | 
+[01:55:47]  | are not currently using.  Get it here: | 
+[01:55:47]  |                                        | 
+[01:55:47]  |        https://git.io/jit-plugin       | 
+[01:55:47]  |                                        | 
+[01:55:47]  ========================================== 
+[01:55:47]  
+[01:55:47]  
+[01:55:47]  
+[01:55:47]  
+[01:55:47]  ========================================== 
+[01:55:47]  |                                        | 
+[01:55:47]  |         YSI version 5.05.0301          | 
+[01:55:47]  |         By Alex "Y_Less" Cole          | 
+[01:55:47]  |                                        | 
+[01:55:47]  | Unable to check the latest YSI version | 
+[01:55:47]  | - please watch the forums and github:  | 
+[01:55:47]  |                                        | 
+[01:55:47]  |   https://git.io/5.x                   | 
+[01:55:47]  |                                        | 
+[01:55:47]  ========================================== 
+[01:55:47]  
+[01:55:47] [MySQL] - Connection Estabilished!
+[01:55:47] UCP Roleplay Gamemode loaded!
+[01:55:47] Number of vehicle models: 0
+[01:57:12] [connection] incoming connection: 127.0.0.1:49545 id: 0
+[01:57:12] [join] vyn has joined the server (0:127.0.0.1)
+[01:57:25] [nick] vyn nick changed to Finn_Xanderz
+[01:57:45] [part] Finn_Xanderz has left the server (0:1)
+[01:58:28] [connection] incoming connection: 127.0.0.1:58544 id: 0
+[01:58:28] [join] vyn has joined the server (0:127.0.0.1)
+[01:58:40] [nick] vyn nick changed to Finn_Xanderz
+[02:15:05] [part] Finn_Xanderz has left the server (0:1)
+[02:27:01] --- Server Shutting Down.
+[02:27:01] 
+
+[02:27:01]  ===============================
+
+[02:27:01]      sscanf plugin unloaded.    
+
+[02:27:01]  ===============================
+
+[02:27:01] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[02:27:01] plugin.mysql: Unloading plugin...
+[02:27:01] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:27:04] password = ""  (string)
+[02:27:04] filterscripts = ""  (string)
+[02:27:04] 
+[02:27:04] Server Plugins
+[02:27:04] --------------
+[02:27:04]  Loading plugin: sscanf
+[02:27:04] 
+
+[02:27:04]  ===============================
+
+[02:27:04]       sscanf plugin loaded.     
+
+[02:27:04]          Version:  2.8.3        
+
+[02:27:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:27:04]  ===============================
+
+[02:27:04]   Loaded.
+[02:27:04]  Loading plugin: streamer
+[02:27:04] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[02:27:04]   Loaded.
+[02:27:04]  Loading plugin: samp_bcrypt
+[02:27:04] [SampBcrypt] [info]: Version: 0.3.2
+[02:27:04]   Loaded.
+[02:27:04]  Loading plugin: mysql
+[02:27:04]  >> plugin.mysql: R41-4 successfully loaded.
+[02:27:04]   Loaded.
+[02:27:04]  Loaded 4 plugins.
+
+[02:27:04] 
+[02:27:04] Filterscripts
+[02:27:04] ---------------
+[02:27:04]   Loaded 0 filterscripts.
+
+[02:27:04]  
+[02:27:04]  ========================================== 
+[02:27:04]  |                                        | 
+[02:27:04]  |    Generating code, this may take a    | 
+[02:27:04]  |           little bit of time.          | 
+[02:27:04]  |                                        | 
+[02:27:04]  |             Please wait...             | 
+[02:27:04]  |                                        | 
+[02:27:04]  ========================================== 
+[02:27:04]  |                                        | 
+[02:27:04]  | Note that this code generation works   | 
+[02:27:04]  | best with the JIT plugin, which you    | 
+[02:27:04]  | are not currently using.  Get it here: | 
+[02:27:04]  |                                        | 
+[02:27:04]  |        https://git.io/jit-plugin       | 
+[02:27:04]  |                                        | 
+[02:27:04]  ========================================== 
+[02:27:04]  
+[02:27:04]  
+[02:27:04]  
+[02:27:04]  
+[02:27:04]  ========================================== 
+[02:27:04]  |                                        | 
+[02:27:04]  |         YSI version 5.05.0301          | 
+[02:27:04]  |         By Alex "Y_Less" Cole          | 
+[02:27:04]  |                                        | 
+[02:27:04]  | Unable to check the latest YSI version | 
+[02:27:04]  | - please watch the forums and github:  | 
+[02:27:04]  |                                        | 
+[02:27:04]  |   https://git.io/5.x                   | 
+[02:27:04]  |                                        | 
+[02:27:04]  ========================================== 
+[02:27:04]  
+[02:27:04] [MySQL] - Connection Estabilished!
+[02:27:04] UCP Roleplay Gamemode loaded!
+[02:27:04] Number of vehicle models: 0
+[02:28:00] [connection] incoming connection: 127.0.0.1:54695 id: 0
+[02:28:01] [join] vyn has joined the server (0:127.0.0.1)
+[02:28:08] [nick] vyn nick changed to Finn_Xanderz
+[02:28:10] [chat] [Finn_Xanderz]: a
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:29:22] password = ""  (string)
+[02:29:22] filterscripts = ""  (string)
+[02:29:22] 
+[02:29:22] Server Plugins
+[02:29:22] --------------
+[02:29:22]  Loading plugin: sscanf
+[02:29:22] 
+
+[02:29:22]  ===============================
+
+[02:29:22]       sscanf plugin loaded.     
+
+[02:29:22]          Version:  2.8.3        
+
+[02:29:22]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:29:22]  ===============================
+
+[02:29:22]   Loaded.
+[02:29:22]  Loading plugin: streamer
+[02:29:22] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[02:29:22]   Loaded.
+[02:29:22]  Loading plugin: samp_bcrypt
+[02:29:22] [SampBcrypt] [info]: Version: 0.3.2
+[02:29:22]   Loaded.
+[02:29:22]  Loading plugin: mysql
+[02:29:22]  >> plugin.mysql: R41-4 successfully loaded.
+[02:29:22]   Loaded.
+[02:29:22]  Loaded 4 plugins.
+
+[02:29:22] 
+[02:29:22] Filterscripts
+[02:29:22] ---------------
+[02:29:22]   Loaded 0 filterscripts.
+
+[02:29:22]  
+[02:29:22]  ========================================== 
+[02:29:22]  |                                        | 
+[02:29:22]  |    Generating code, this may take a    | 
+[02:29:22]  |           little bit of time.          | 
+[02:29:22]  |                                        | 
+[02:29:22]  |             Please wait...             | 
+[02:29:22]  |                                        | 
+[02:29:22]  ========================================== 
+[02:29:22]  |                                        | 
+[02:29:22]  | Note that this code generation works   | 
+[02:29:22]  | best with the JIT plugin, which you    | 
+[02:29:22]  | are not currently using.  Get it here: | 
+[02:29:22]  |                                        | 
+[02:29:22]  |        https://git.io/jit-plugin       | 
+[02:29:22]  |                                        | 
+[02:29:22]  ========================================== 
+[02:29:22]  
+[02:29:22]  
+[02:29:22]  
+[02:29:22]  
+[02:29:22]  ========================================== 
+[02:29:22]  |                                        | 
+[02:29:22]  |         YSI version 5.05.0301          | 
+[02:29:22]  |         By Alex "Y_Less" Cole          | 
+[02:29:22]  |                                        | 
+[02:29:22]  | Unable to check the latest YSI version | 
+[02:29:22]  | - please watch the forums and github:  | 
+[02:29:22]  |                                        | 
+[02:29:22]  |   https://git.io/5.x                   | 
+[02:29:22]  |                                        | 
+[02:29:22]  ========================================== 
+[02:29:22]  
+[02:29:22] [MySQL] - Connection Estabilished!
+[02:29:22] UCP Roleplay Gamemode loaded!
+[02:29:22] Number of vehicle models: 0
+[02:29:25] [connection] incoming connection: 127.0.0.1:62410 id: 0
+[02:29:25] [join] Finn_Xanderz has joined the server (0:127.0.0.1)
+[02:29:40] [nick] Finn_Xanderz nick changed to Javier_Cooper
+[02:30:41] [chat] [Javier_Cooper]: a
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:31:29] password = ""  (string)
+[02:31:29] filterscripts = ""  (string)
+[02:31:29] 
+[02:31:29] Server Plugins
+[02:31:29] --------------
+[02:31:29]  Loading plugin: sscanf
+[02:31:29] 
+
+[02:31:29]  ===============================
+
+[02:31:29]       sscanf plugin loaded.     
+
+[02:31:29]          Version:  2.8.3        
+
+[02:31:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:31:29]  ===============================
+
+[02:31:29]   Loaded.
+[02:31:29]  Loading plugin: streamer
+[02:31:29] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[02:31:29]   Loaded.
+[02:31:29]  Loading plugin: samp_bcrypt
+[02:31:29] [SampBcrypt] [info]: Version: 0.3.2
+[02:31:29]   Loaded.
+[02:31:29]  Loading plugin: mysql
+[02:31:29]  >> plugin.mysql: R41-4 successfully loaded.
+[02:31:29]   Loaded.
+[02:31:29]  Loaded 4 plugins.
+
+[02:31:29] 
+[02:31:29] Filterscripts
+[02:31:29] ---------------
+[02:31:29]   Loaded 0 filterscripts.
+
+[02:31:29]  
+[02:31:29]  ========================================== 
+[02:31:29]  |                                        | 
+[02:31:29]  |    Generating code, this may take a    | 
+[02:31:29]  |           little bit of time.          | 
+[02:31:29]  |                                        | 
+[02:31:29]  |             Please wait...             | 
+[02:31:29]  |                                        | 
+[02:31:29]  ========================================== 
+[02:31:29]  |                                        | 
+[02:31:29]  | Note that this code generation works   | 
+[02:31:29]  | best with the JIT plugin, which you    | 
+[02:31:29]  | are not currently using.  Get it here: | 
+[02:31:29]  |                                        | 
+[02:31:29]  |        https://git.io/jit-plugin       | 
+[02:31:29]  |                                        | 
+[02:31:29]  ========================================== 
+[02:31:29]  
+[02:31:29]  
+[02:31:29]  
+[02:31:29]  
+[02:31:29]  ========================================== 
+[02:31:29]  |                                        | 
+[02:31:29]  |         YSI version 5.05.0301          | 
+[02:31:29]  |         By Alex "Y_Less" Cole          | 
+[02:31:29]  |                                        | 
+[02:31:29]  | Unable to check the latest YSI version | 
+[02:31:29]  | - please watch the forums and github:  | 
+[02:31:29]  |                                        | 
+[02:31:29]  |   https://git.io/5.x                   | 
+[02:31:29]  |                                        | 
+[02:31:29]  ========================================== 
+[02:31:29]  
+[02:31:29] [MySQL] - Connection Estabilished!
+[02:31:29] UCP Roleplay Gamemode loaded!
+[02:31:29] Number of vehicle models: 0
+[02:31:35] [connection] incoming connection: 127.0.0.1:50838 id: 0
+[02:31:35] [join] Javier_Cooper has joined the server (0:127.0.0.1)
+[02:31:55] [nick] Javier_Cooper nick changed to Finn_Jazzy
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:35:13] password = ""  (string)
+[02:35:13] filterscripts = ""  (string)
+[02:35:13] 
+[02:35:13] Server Plugins
+[02:35:13] --------------
+[02:35:13]  Loading plugin: sscanf
+[02:35:13] 
+
+[02:35:13]  ===============================
+
+[02:35:13]       sscanf plugin loaded.     
+
+[02:35:13]          Version:  2.8.3        
+
+[02:35:13]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:35:13]  ===============================
+
+[02:35:13]   Loaded.
+[02:35:13]  Loading plugin: streamer
+[02:35:13] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[02:35:13]   Loaded.
+[02:35:13]  Loading plugin: samp_bcrypt
+[02:35:13] [SampBcrypt] [info]: Version: 0.3.2
+[02:35:13]   Loaded.
+[02:35:13]  Loading plugin: mysql
+[02:35:13]  >> plugin.mysql: R41-4 successfully loaded.
+[02:35:13]   Loaded.
+[02:35:13]  Loaded 4 plugins.
+
+[02:35:13] 
+[02:35:13] Filterscripts
+[02:35:13] ---------------
+[02:35:13]   Loaded 0 filterscripts.
+
+[02:35:13]  
+[02:35:13]  ========================================== 
+[02:35:13]  |                                        | 
+[02:35:13]  |    Generating code, this may take a    | 
+[02:35:13]  |           little bit of time.          | 
+[02:35:13]  |                                        | 
+[02:35:13]  |             Please wait...             | 
+[02:35:13]  |                                        | 
+[02:35:13]  ========================================== 
+[02:35:13]  |                                        | 
+[02:35:13]  | Note that this code generation works   | 
+[02:35:13]  | best with the JIT plugin, which you    | 
+[02:35:13]  | are not currently using.  Get it here: | 
+[02:35:13]  |                                        | 
+[02:35:13]  |        https://git.io/jit-plugin       | 
+[02:35:13]  |                                        | 
+[02:35:13]  ========================================== 
+[02:35:13]  
+[02:35:13]  
+[02:35:13]  
+[02:35:13]  
+[02:35:13]  ========================================== 
+[02:35:13]  |                                        | 
+[02:35:13]  |         YSI version 5.05.0301          | 
+[02:35:13]  |         By Alex "Y_Less" Cole          | 
+[02:35:13]  |                                        | 
+[02:35:13]  | Unable to check the latest YSI version | 
+[02:35:13]  | - please watch the forums and github:  | 
+[02:35:14]  |                                        | 
+[02:35:14]  |   https://git.io/5.x                   | 
+[02:35:14]  |                                        | 
+[02:35:14]  ========================================== 
+[02:35:14]  
+[02:35:14] [MySQL] - Connection Estabilished!
+[02:35:14] UCP Roleplay Gamemode loaded!
+[02:35:14] Number of vehicle models: 0
+[02:35:17] [connection] incoming connection: 127.0.0.1:56644 id: 0
+[02:35:17] [join] Finn_Jazzy has joined the server (0:127.0.0.1)
+[02:35:29] [part] Finn_Jazzy has left the server (0:0)
+[02:36:43] [connection] incoming connection: 127.0.0.1:63905 id: 0
+[02:36:44] [join] vyn has joined the server (0:127.0.0.1)
+[02:36:49] [nick] vyn nick changed to Finn_Xanderz
+[02:36:53] [chat] [Finn_Xanderz]: a
+[02:36:54] [chat] [Finn_Xanderz]: a
+[02:36:54] [chat] [Finn_Xanderz]: a
+[02:37:57] [part] Finn_Xanderz has left the server (0:1)
+[02:38:00] --- Server Shutting Down.
+[02:38:00] 
+
+[02:38:00]  ===============================
+
+[02:38:00]      sscanf plugin unloaded.    
+
+[02:38:00]  ===============================
+
+[02:38:00] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[02:38:00] plugin.mysql: Unloading plugin...
+[02:38:00] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:38:01] password = ""  (string)
+[02:38:01] filterscripts = ""  (string)
+[02:38:01] 
+[02:38:01] Server Plugins
+[02:38:01] --------------
+[02:38:01]  Loading plugin: sscanf
+[02:38:01] 
+
+[02:38:01]  ===============================
+
+[02:38:01]       sscanf plugin loaded.     
+
+[02:38:01]          Version:  2.8.3        
+
+[02:38:01]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:38:01]  ===============================
+
+[02:38:01]   Loaded.
+[02:38:01]  Loading plugin: streamer
+[02:38:01] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[02:38:01]   Loaded.
+[02:38:01]  Loading plugin: samp_bcrypt
+[02:38:01] [SampBcrypt] [info]: Version: 0.3.2
+[02:38:01]   Loaded.
+[02:38:01]  Loading plugin: mysql
+[02:38:01]  >> plugin.mysql: R41-4 successfully loaded.
+[02:38:01]   Loaded.
+[02:38:01]  Loaded 4 plugins.
+
+[02:38:01] 
+[02:38:01] Filterscripts
+[02:38:01] ---------------
+[02:38:01]   Loaded 0 filterscripts.
+
+[02:38:01]  
+[02:38:01]  ========================================== 
+[02:38:01]  |                                        | 
+[02:38:01]  |    Generating code, this may take a    | 
+[02:38:01]  |           little bit of time.          | 
+[02:38:01]  |                                        | 
+[02:38:01]  |             Please wait...             | 
+[02:38:01]  |                                        | 
+[02:38:01]  ========================================== 
+[02:38:01]  |                                        | 
+[02:38:01]  | Note that this code generation works   | 
+[02:38:01]  | best with the JIT plugin, which you    | 
+[02:38:01]  | are not currently using.  Get it here: | 
+[02:38:01]  |                                        | 
+[02:38:01]  |        https://git.io/jit-plugin       | 
+[02:38:01]  |                                        | 
+[02:38:01]  ========================================== 
+[02:38:01]  
+[02:38:01]  
+[02:38:01]  
+[02:38:01]  
+[02:38:01]  ========================================== 
+[02:38:01]  |                                        | 
+[02:38:01]  |         YSI version 5.05.0301          | 
+[02:38:01]  |         By Alex "Y_Less" Cole          | 
+[02:38:01]  |                                        | 
+[02:38:01]  | Unable to check the latest YSI version | 
+[02:38:01]  | - please watch the forums and github:  | 
+[02:38:01]  |                                        | 
+[02:38:01]  |   https://git.io/5.x                   | 
+[02:38:01]  |                                        | 
+[02:38:01]  ========================================== 
+[02:38:01]  
+[02:38:01] [MySQL] - Connection Estabilished!
+[02:38:01] UCP Roleplay Gamemode loaded!
+[02:38:01] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:39:02] password = ""  (string)
+[02:39:02] filterscripts = ""  (string)
+[02:39:02] 
+[02:39:02] Server Plugins
+[02:39:02] --------------
+[02:39:02]  Loading plugin: sscanf
+[02:39:02] 
+
+[02:39:02]  ===============================
+
+[02:39:02]       sscanf plugin loaded.     
+
+[02:39:02]          Version:  2.8.3        
+
+[02:39:02]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:39:02]  ===============================
+
+[02:39:02]   Loaded.
+[02:39:02]  Loading plugin: streamer
+[02:39:02] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[02:39:02]   Loaded.
+[02:39:02]  Loading plugin: samp_bcrypt
+[02:39:02] [SampBcrypt] [info]: Version: 0.3.2
+[02:39:02]   Loaded.
+[02:39:02]  Loading plugin: mysql
+[02:39:02]  >> plugin.mysql: R41-4 successfully loaded.
+[02:39:02]   Loaded.
+[02:39:02]  Loaded 4 plugins.
+
+[02:39:02] 
+[02:39:02] Filterscripts
+[02:39:02] ---------------
+[02:39:02]   Loaded 0 filterscripts.
+
+[02:39:02]  
+[02:39:02]  ========================================== 
+[02:39:02]  |                                        | 
+[02:39:02]  |    Generating code, this may take a    | 
+[02:39:02]  |           little bit of time.          | 
+[02:39:02]  |                                        | 
+[02:39:02]  |             Please wait...             | 
+[02:39:02]  |                                        | 
+[02:39:02]  ========================================== 
+[02:39:02]  |                                        | 
+[02:39:02]  | Note that this code generation works   | 
+[02:39:02]  | best with the JIT plugin, which you    | 
+[02:39:02]  | are not currently using.  Get it here: | 
+[02:39:02]  |                                        | 
+[02:39:02]  |        https://git.io/jit-plugin       | 
+[02:39:02]  |                                        | 
+[02:39:02]  ========================================== 
+[02:39:02]  
+[02:39:02]  
+[02:39:02]  
+[02:39:02]  
+[02:39:02]  ========================================== 
+[02:39:02]  |                                        | 
+[02:39:02]  |         YSI version 5.05.0301          | 
+[02:39:02]  |         By Alex "Y_Less" Cole          | 
+[02:39:02]  |                                        | 
+[02:39:02]  | Unable to check the latest YSI version | 
+[02:39:02]  | - please watch the forums and github:  | 
+[02:39:02]  |                                        | 
+[02:39:02]  |   https://git.io/5.x                   | 
+[02:39:02]  |                                        | 
+[02:39:02]  ========================================== 
+[02:39:02]  
+[02:39:02] [MySQL] - Connection Estabilished!
+[02:39:02] UCP Roleplay Gamemode loaded!
+[02:39:02] Number of vehicle models: 0
+[02:40:35] [connection] incoming connection: 127.0.0.1:57608 id: 0
+[02:40:35] [join] vyn has joined the server (0:127.0.0.1)
+[02:40:56] [nick] vyn nick changed to Konz_Sanderz
+[02:41:06] [chat] [Konz_Sanderz]: a
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:48:23] password = ""  (string)
+[02:48:23] filterscripts = ""  (string)
+[02:48:23] 
+[02:48:23] Server Plugins
+[02:48:23] --------------
+[02:48:23]  Loading plugin: sscanf
+[02:48:23] 
+
+[02:48:23]  ===============================
+
+[02:48:23]       sscanf plugin loaded.     
+
+[02:48:23]          Version:  2.8.3        
+
+[02:48:23]   (c) 2018 Alex "Y_Less" Cole  
+
+[02:48:23]  ===============================
+
+[02:48:23]   Loaded.
+[02:48:23]  Loading plugin: streamer
+[02:48:23] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[02:48:23]   Loaded.
+[02:48:23]  Loading plugin: samp_bcrypt
+[02:48:23] [SampBcrypt] [info]: Version: 0.3.2
+[02:48:23]   Loaded.
+[02:48:23]  Loading plugin: mysql
+[02:48:23]  >> plugin.mysql: R41-4 successfully loaded.
+[02:48:23]   Loaded.
+[02:48:23]  Loaded 4 plugins.
+
+[02:48:23] 
+[02:48:23] Filterscripts
+[02:48:23] ---------------
+[02:48:23]   Loaded 0 filterscripts.
+
+[02:48:23]  
+[02:48:23]  ========================================== 
+[02:48:23]  |                                        | 
+[02:48:23]  |    Generating code, this may take a    | 
+[02:48:23]  |           little bit of time.          | 
+[02:48:23]  |                                        | 
+[02:48:23]  |             Please wait...             | 
+[02:48:23]  |                                        | 
+[02:48:23]  ========================================== 
+[02:48:23]  |                                        | 
+[02:48:23]  | Note that this code generation works   | 
+[02:48:23]  | best with the JIT plugin, which you    | 
+[02:48:23]  | are not currently using.  Get it here: | 
+[02:48:23]  |                                        | 
+[02:48:23]  |        https://git.io/jit-plugin       | 
+[02:48:23]  |                                        | 
+[02:48:23]  ========================================== 
+[02:48:23]  
+[02:48:23]  
+[02:48:23]  
+[02:48:23]  
+[02:48:23]  ========================================== 
+[02:48:23]  |                                        | 
+[02:48:23]  |         YSI version 5.05.0301          | 
+[02:48:23]  |         By Alex "Y_Less" Cole          | 
+[02:48:23]  |                                        | 
+[02:48:23]  | Unable to check the latest YSI version | 
+[02:48:23]  | - please watch the forums and github:  | 
+[02:48:23]  |                                        | 
+[02:48:23]  |   https://git.io/5.x                   | 
+[02:48:23]  |                                        | 
+[02:48:23]  ========================================== 
+[02:48:23]  
+[02:48:23] [MySQL] - Connection Estabilished!
+[02:48:23] UCP Roleplay Gamemode loaded!
+[02:48:23] Number of vehicle models: 0
+[02:59:57] --- Server Shutting Down.
+[02:59:57] 
+
+[02:59:57]  ===============================
+
+[02:59:57]      sscanf plugin unloaded.    
+
+[02:59:57]  ===============================
+
+[02:59:57] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[02:59:57] plugin.mysql: Unloading plugin...
+[02:59:57] plugin.mysql: Plugin unloaded.
